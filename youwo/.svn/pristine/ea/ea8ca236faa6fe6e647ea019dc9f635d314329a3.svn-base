@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>优沃软件</title>
+    <link rel="stylesheet" href="style/main.css">
+</head>
+<body>
+    <div id="main">
+    	<div id="nav">
+    		<span class="logo"></span>
+    		<ul>
+    			<li><a href="#">首页</a></li>
+    			<li><a href="#module_one">服务内容</a></li>
+    			<li><a href="#module_three">关于我们</a></li>
+    			<li><a href="#module_five">联系我们</a></li>
+    		</ul>
+    	</div>
+    	<div id="banner">
+    		<div class="text">
+    			<span class="main">放心&nbsp;&nbsp;&nbsp;&nbsp;有我</span>
+    			<span class="other">专业提供网站建设、系统开发、升级运维等服务</span>
+    			<span class="btn"><a href="#module_five">联系我们</a></span>
+    		</div>
+    	</div>
+    	<div id="module_one" name="module_one">
+    		<div class="head">
+    			<span class="cn">服务内容</span>
+    			<span class="en">What we do</span>
+    		</div>
+    		<div class="content">
+    			<div class="group group_one">
+    				<div class="logo"></div>
+    				<div class="name">网站建设</div>
+    				<div class="detail">
+    					<span>企业官网设计</span>
+    					<span>个人官网设计</span>
+    				</div>
+    			</div>
+    			<div class="group group_two">
+    				<div class="logo"></div>
+    				<div class="name">系统开发</div>
+    				<div class="detail">
+    					<span>企业管理系统&nbsp;财务管理系统</span>
+    					<span>企业管理系统&nbsp;财务管理系统</span>
+    				</div>
+    			</div>
+    			<div class="group group_three">
+    				<div class="logo"></div>
+    				<div class="name">升级运维</div>
+    				<div class="detail">
+    					<span>企业官网设计</span>
+    					<span>个人官网设计</span>
+    				</div>
+    			</div>
+    		</div>
+    	</div>
+    	<div id="module_two">
+    		<div class="head">
+    			<span class="cn">值得信赖</span>
+    			<span class="en">We are a team worth your trusting</span>
+    		</div>
+    		<div class="content">
+    			<div class="row row_one">
+    				<div class="group group_one">
+                        <div class="logo"></div>
+                        <div class="name">专业化团队力量</div>
+                        <div class="detail">
+                            <span>专业提供网站、系统建设、升级一站式服务</span>
+                            <span>团队成员都有丰富的建站及系统开发经验</span>
+                        </div>
+                    </div>
+    				<div class="group group_two">
+                        <div class="logo"></div>
+                        <div class="name">高效优质服务</div>
+                        <div class="detail">
+                            <span>贯彻“需求分析、系统设计、系统开发、系统测试、系统运维”各个生命周期环节</span>
+                        </div>
+                    </div>
+    			</div>
+    			<div class="row row_two">
+    				<div class="group group_three">
+                        <div class="logo"></div>
+                        <div class="name">专业化团队力量</div>
+                        <div class="detail">
+                            <span>专业提供网站、系统建设、升级一站式服务</span>
+                            <span>团队成员都有丰富的建站及系统开发经验</span>
+                        </div>
+                    </div>
+    				<div class="group group_four">
+                        <div class="logo"></div>
+                        <div class="name">高效优质服务</div>
+                        <div class="detail">
+                            <span>贯彻“需求分析、系统设计、系统开发、系统测试、系统运维”各个生命周期环节</span>
+                        </div>
+                    </div>
+    			</div>
+    		</div>
+    	</div>
+        <div id="module_three" name="module_three">
+            <div class="head">
+                <span class="cn">关于我们</span>
+                <span class="en">Who we are</span>
+            </div>
+            <div class="content">
+                <div class="group_wrap">
+                    <div class="group group_one">
+                        <div class="name">放心&nbsp;有我</div>
+                        <div class="detail">
+                            <span>专业提供网站、系统建设、升级一站式服务</span>
+                            <span>团队成员都有丰富的建站及系统开发经验</span>
+                        </div>
+                    </div>
+                    <div class="group group_two">
+                        <div class="name">记得&nbsp;优沃</div>
+                        <div class="detail">
+                            <span>专业提供网站、系统建设、升级一站式服务</span>
+                            <span>团队成员都有丰富的建站及系统开发经验</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="module_four">
+            <div class="head">
+                <span class="cn">我们的团队</span>
+                <span class="en">Young and talented people</span>
+            </div>
+            <div class="avatar_wrap">
+                <div class="row_one">
+                    <span class="avatar avatar_one"></span>
+                    <span class="avatar avatar_two"></span>
+                    <span class="avatar avatar_three"></span>
+                </div>
+                <div class="row_two">
+                    <span>首席执行官</span>
+                    <span class="center">技术总监</span>
+                    <span>后台总监</span>
+                </div>
+                <div class="row_three">
+                    <span class="avatar avatar_four"></span>
+                    <span class="avatar avatar_five"></span>
+                    <span class="avatar avatar_six"></span>
+                </div>
+                <div class="row_four">
+                    <span>财务总监</span>
+                    <span class="center">前端总监</span>
+                    <span>设计总监</span>
+                </div>
+            </div>
+        </div>
+        <div id="module_five" name="module_five">
+            <div class="head">
+                <span class="cn">联系我们</span>
+                <span class="en">Contact us</span>
+            </div>
+            <div class="map"></div>
+            <ul>
+                <li>
+                    <span class="logo logo_one"></span>
+                    <span>地址：广东省广州市大学城广州工业大学</span>
+                </li>
+                <li>
+                    <span class="logo logo_two"></span>
+                    <span class="li_two">固定电话：020 12345678</br>
+                          手机：12345678901
+                    </span>
+                </li>
+                <li>
+                    <span class="logo logo_three"></span>
+                    <span>邮箱：yowosoft@mail.com</span>
+                </li>
+            </ul>
+            <div class="link_wrap">
+                <div class="logo"></div>
+                <div class="code_wrap">
+                    <div class="name">微信 : yowosoft</div>
+                    <img src="images/module_5_code.png" alt="QR code">
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
