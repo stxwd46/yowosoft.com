@@ -312,7 +312,7 @@ body {
 }
 #module_two .content .detail {
   color: #77817f;
-  font-size: 16px;
+  font-size: 14px;
   text-align: left;
   line-height: 24px;
   margin-top: 20px;
@@ -426,7 +426,7 @@ body {
 }
 #module_three .content .group_wrap .group .detail {
   height: 16px;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 30px;
   color: #6f7a78;
   padding: 0 50px;
@@ -591,7 +591,7 @@ body {
 #module_five ul li span {
   float: left;
   color: #5d6866;
-  font-size: 16px;
+  font-size: 14px;
 }
 #module_five ul .li_one {
   height: 51px;
@@ -679,7 +679,7 @@ body {
 #module_five .link_wrap .code_wrap .name {
   width: 100%;
   color: #5d6866;
-  font-size: 16px;
+  font-size: 14px;
   padding-bottom: 20px;
 }
 #footer {
